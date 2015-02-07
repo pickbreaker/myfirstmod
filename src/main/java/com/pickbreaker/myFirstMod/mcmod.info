@@ -1,0 +1,17 @@
+
+  [
+    {
+      "modid": "myFirstMod",
+      "name": "My First Mod",
+      "description": "Just trying out modding.(-:",
+      "version": "1.0",
+      "mcversion": "1.7.10",
+      "url": "",
+      "updateUrl": "",
+      "authorList": ["pickbreaker"],
+      "credits": "",
+      "logoFile": "",
+      "screenshots": [],
+      "dependencies": []
+    }
+  ]
